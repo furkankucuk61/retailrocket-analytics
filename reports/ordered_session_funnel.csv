@@ -1,0 +1,4 @@
+stage,session_count,conversion_from_previous_stage,percentage_of_view_sessions
+view,1755781,100.0,100.0
+addtocart_after_view,35830,2.0406873066743514,2.0406873066743514
+transaction_after_addtocart,10410,29.05386547585822,0.5928985448640804

@@ -1,0 +1,20 @@
+RETAILROCKET - INITIAL DATA PROFILE
+==================================================
+
+Rows: 2756101
+Columns: 5
+Unique visitors: 1407580
+Unique products: 235061
+
+EVENT DISTRIBUTION
+event
+view           2664312
+addtocart        69332
+transaction      22457
+
+MISSING VALUES
+timestamp              0
+visitorid              0
+event                  0
+itemid                 0
+transactionid    2733644
